@@ -13,5 +13,6 @@ Ask me about:
 - Photography and old analog cameras
 
 Fun fact
-- Originally from Sweden, now residing in Germany
+- Originally from Sweden, now living in Germany
+- I have a dog named Bernie
 
