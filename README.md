@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hej! 👋
 
-<!--
-**ghersmann/ghersmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m currently:
+- Learning frontend development 
+- Student @coding-bootcamps-eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm formerly:
+- Professional Photographer
+- Museum employee 
+
+Ask me about:
+- Photography and old analog cameras
+
+Fun fact
+- Originally from Sweden, now residing in Germany
+
