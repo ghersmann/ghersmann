@@ -15,4 +15,5 @@
 #### Fun facts:
 - Originally from Sweden, now living in Germany
 - I have a dog named Bernie
+- Repair old analog cameras in my spare time
 
