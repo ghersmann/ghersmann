@@ -1,18 +1,18 @@
-### Hej! 👋
+# Hej!
 
 
-I’m currently:
+#### I’m currently:
 - Learning frontend development 
 - Student @coding-bootcamps-eu
 
-I'm formerly:
+#### I'm formerly:
 - Professional Photographer
 - Museum employee 
 
-Ask me about:
+#### Ask me about:
 - Photography and old analog cameras
 
-Fun fact
+#### Fun facts:
 - Originally from Sweden, now living in Germany
 - I have a dog named Bernie
 
