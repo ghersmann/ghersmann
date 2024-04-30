@@ -2,10 +2,10 @@
 
 
 #### I’m currently:
-- Learning frontend development 
-- Student @coding-bootcamps-eu
+- Trying to get a foot into the door of frontend development 
 
 #### I'm formerly:
+- Student @coding-bootcamps-eu
 - Professional Photographer
 - Museum employee 
 
