@@ -2,7 +2,7 @@
 
 
 #### I’m currently:
-- Trying to get a foot into the door of frontend development 
+- Looking for a job in frontend development
 
 #### I'm formerly:
 - Student @coding-bootcamps-eu
